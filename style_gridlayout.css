@@ -12,6 +12,11 @@ body {
    color:aliceblue;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
+ p{
+  color:rgb(238, 245, 245);
+  text-align: left;
+  word-spacing: 30px;
+}
  .container > div > img {
   height: 200px;
   min-width: 150px;

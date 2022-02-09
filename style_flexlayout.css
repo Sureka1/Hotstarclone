@@ -2,17 +2,22 @@ body {
     margin: 20px;
     background-image: url("hotstar.jpg");
   }
-  h1:hover {
+  h1 {
     color:antiquewhite;
     text-align: center;
     font-style:oblique ;
     font-weight: 900;
-    text-decoration: overline dotted whitesmoke;
+    text-decoration: overline  whitesmoke;
   } 
   h2 {
     color:aliceblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: underline;
+  }
+  p{
+    color:rgb(238, 245, 245);
+    text-align: left;
+    word-spacing: 30px;
   }
   
   .container > div > img {
@@ -30,7 +35,5 @@ body {
     flex-flow: row wrap;
     gap: 10px;
     align-items:stretch;
-
-
-  }
+ }
   
